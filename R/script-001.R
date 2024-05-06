@@ -8,3 +8,4 @@ qqline(iris$Petal.Length)
 shapiro.test(iris$Petal.Length)
 bartlett.test(Petal.Length ~ Species, 
               data=iris)
+	      
